@@ -16,10 +16,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Tijn Gerhards
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Rood
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  Url website: https://www.footlocker.nl/nl?utm_source=google&utm_medium=cpc&utm_campaign=_1:nl_2:performance_3:google_4:do_5:search-pure-brand_6:conversion_7:mix_8:always+on_9:na_10:na&gad_source=1&gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTf2ZmhLe5_12NOMznpqVDUXaQRY1yRE-4pmZiAthgnDlsVYY8MwwDwaAurNEALw_wcB&gclsrc=aw.ds
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
