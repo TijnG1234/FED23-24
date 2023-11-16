@@ -56,7 +56,27 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Lijst met je bevindingen die in de test naar voren kwamen: Waarnemingen
+
+Hieronder vind je mijn bevindingen die naar voren kwamen tijdens de test. Individuen met visuele beperkingen, zoals blinden en slechtzienden, vertoonden diverse reacties. Sommigen kunnen bijvoorbeeld alleen op een beperkt gebied focussen, waardoor de rest van hun omgeving niet zichtbaar is. Op de website van Footlocker kan de drukte problematisch zijn voor slechtzienden, waardoor het moeilijk is om hun positie te bepalen te midden van de vele afbeeldingen en secties.
+
+Hoewel ik zelf geen tests heb uitgevoerd voor personen met Parkinson/spasmes, heb ik dit waargenomen bij een medestudent. Hieruit kan worden geconcludeerd dat het vrijwel onmogelijk lijkt voor iemand met ernstige Parkinson om een website te gebruiken.
+
+<strong>Screenreader</strong>
+
+Een screenreader analyseert de HTML-structuur om blinden of slechtzienden in staat te stellen computers en smartphones gemakkelijker te gebruiken. Op de website van Footlocker wordt de screenreader goed benut, maar de site is druk en kan de gebruiker overweldigen met veel audio. Het kan tijdrovend zijn voor de gebruiker om naar het gewenste gedeelte van de website te navigeren. Hoewel ik het handig vond, waren er momenten waarop ik sneller naar een ander deel van de website wilde gaan, wat te lang duurde. Het zou nuttig zijn om het overslaan van bepaalde elementen toegankelijker te maken.
+
+Muis en Toetsenbord
+
+De Footlocker-website bevat veel content, wat betekent dat het moeilijk is om bij te houden waar je bent. Mensen met concentratieproblemen kunnen snel verdwalen en veel tijd besteden aan het achterhalen van hun positie. Footlocker heeft alleen standaardinstellingen wanneer je bijvoorbeeld tab gebruikt, waardoor het niet snel opvalt en nog langer kan duren.
+
+Motoriek (schokken, elastiekjes)
+
+Na mijn observaties bleek het voor gebruikers met spasmen onmogelijk om een telefoon of computer te gebruiken. Hoewel er weinig aan gedaan kan worden, kunnen gebruikers met Parkinson wel baat hebben bij grotere knoppen en goed ontworpen tabbladen en hun statussen om knoppen gemakkelijker te maken.
+
+Visueel (brillen, contrast, kleurenblindheid, donker/licht)
+
+Visuele beperkingen variëren; sommigen zien slechts een klein punt, anderen zijn kleurenblind of hebben zelfs een soort vlek in hun gezichtsveld. Het is belangrijk om breed te denken en rekening te houden met diverse behoeften. Tijdens de tests ondervond ik zelf de moeilijkheid om een deel van mijn zicht te verliezen, wat leidde tot concentratieverlies. Wanneer ik me kon concentreren, lukte het wel.
 
 </details>
 
