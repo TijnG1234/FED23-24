@@ -96,7 +96,7 @@ Visuele beperkingen variëren; sommigen zien slechts een klein punt, anderen zij
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/foto_schets_2.jpeg" width="375px" alt="breakdown van nog een dynamisch deel">
 
-In de schets voor het responsieve element heb ik geprobeerd te begrijpen wat het precies inhoudt. Kort gezegd betekent het dat als je een ontwerp wilt dat goed werkt op verschillende schermformaten, je gebruik moet maken van media queries en diverse CSS-eigenschappen. Ik verwacht dat ik uitdagingen zal tegenkomen bij het implementeren van het hamburgermenu. Het is belangrijk om de CSS en JavaScript goed op elkaar af te stemmen, en het hamburgermenu moet geleidelijk verdwijnen naarmate het scherm groter wordt.
+<p>In de schets voor het responsieve element heb ik geprobeerd te begrijpen wat het precies inhoudt. Kort gezegd betekent het dat als je een ontwerp wilt dat goed werkt op verschillende schermformaten, je gebruik moet maken van media queries en diverse CSS-eigenschappen. Ik verwacht dat ik uitdagingen zal tegenkomen bij het implementeren van het hamburgermenu. Het is belangrijk om de CSS en JavaScript goed op elkaar af te stemmen, en het hamburgermenu moet geleidelijk verdwijnen naarmate het scherm groter wordt.</p>
 
 </details>
 
@@ -111,6 +111,8 @@ In de schets voor het responsieve element heb ik geprobeerd te begrijpen wat het
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+
 
 
   ### Agenda voor meeting
