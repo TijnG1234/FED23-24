@@ -150,7 +150,7 @@ Mijn agenda uit de meeting is om antwoorden te krijgen op de vragen die ik heb o
 * Wat is jullie mening over de haalbaarheid van mijn verwachtingen voor het hamburgermenu? Zijn er specifieke aandachtspunten? Link naar vraag op Stack Overflow
 
 
-  ### Verslag van meeting
+### Verslag van meeting
 JavaScript-functionaliteit in het formulier bij indiening:
 * Verwachtingen: De meerderheid van de feedbackgroep verwacht een naadloze en intuïtieve JavaScript-functionaliteit bij het indienen van het formulier. Ze benadrukken de noodzaak van een heldere console-uitvoer voor een betere gebruikerservaring.
 * Suggesties: Enkele suggesties voor verbetering omvatten het overwegen van visuele feedback na het indienen en het implementeren van client-side validatie om fouten proactief aan te pakken.
