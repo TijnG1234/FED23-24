@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   link: https://www.footlocker.nl/nl?utm_source=google&utm_medium=cpc&utm_campaign=_1:nl_2:performance_3:google_4:do_5:search-pure-brand_6:conversion_7:mix_8:always+on_9:na_10:na&gad_source=1&gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTf2ZmhLe5_12NOMznpqVDUXaQRY1yRE-4pmZiAthgnDlsVYY8MwwDwaAurNEALw_wcB&gclsrc=aw.ds
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Home pagina
   <img src="readme-images/eerstepagina.png" width="375px" alt="Eerste pagina die ik ga maken">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Over ons pagina
   <img src="readme-images/tweedepagina.png" width="375px" alt="Tweede pagina die ik ga maken">
  
 </details>
@@ -117,7 +117,7 @@ Deze aanpassingen richten zich op het vergroten van de toegankelijkheid, leesbaa
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/foto_schets_2.jpeg" width="375px" alt="breakdown van nog een dynamisch deel">
 
-<p>In de schets voor het responsieve element heb ik geprobeerd te begrijpen wat het precies inhoudt. Kort gezegd betekent het dat als je een ontwerp wilt dat goed werkt op verschillende schermformaten, je gebruik moet maken van media queries en diverse CSS-eigenschappen. Ik verwacht dat ik uitdagingen zal tegenkomen bij het implementeren van het hamburgermenu. Het is belangrijk om de CSS en JavaScript goed op elkaar af te stemmen, en het hamburgermenu moet geleidelijk verdwijnen naarmate het scherm groter wordt.</p>
+<p></p>
 
 </details>
 
@@ -131,28 +131,53 @@ Deze aanpassingen richten zich op het vergroten van de toegankelijkheid, leesbaa
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-
+  De overgang van het gebruik van uitsluitend div-elementen naar het gebruik van sections en articles, zonder veelvuldig gebruik van classes en ids, blijkt voor mij persoonlijk een uitdagende stap te zijn wanneer ik moet gaan beginnen met mijn code. Ik vind het ook lastig om aandacht te besteden aan de semantiek en zal hier meer informatie over opvragen. Bovendien ben ik geïnteresseerd in het verbeteren van de gebruikerservaring van de website en zou hier graag meer over willen weten.
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Mijn agenda uit de meeting is om antwoorden te krijgen op de vragen die ik heb omtrent mijn huidige breakdownschets:
+
+* Wat verwacht je van de JavaScript-functionaliteit in het formulier bij indiening? Heb je suggesties voor verbeteringen?
+
+* Welke essentiële aspecten moeten worden onderzocht voor de basisstructuur van het formulier? Heb je suggesties voor effectieve onderzoeksmethoden?
+
+* Hoe goed is het concept van surface plane design begrepen en toegepast in de schetsen? Heb je suggesties ter verbetering?
+
+* Wat vind je van het belang van het optimaliseren van de toetsenbordinteractie, vooral voor gebruikers met motorische beperkingen? Heb je specifieke suggesties voor sneltoetsen en focusindicaties?
+
+* Heb je aanbevelingen voor bronnen om mijn begrip van het design te verbeteren en de succesvolle implementatie ervan in mijn schetsen te bevorderen?
+
+* Wat is jullie mening over de haalbaarheid van mijn verwachtingen voor het hamburgermenu? Zijn er specifieke aandachtspunten? Link naar vraag op Stack Overflow
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+JavaScript-functionaliteit in het formulier bij indiening:
+* Verwachtingen: De meerderheid van de feedbackgroep verwacht een naadloze en intuïtieve JavaScript-functionaliteit bij het indienen van het formulier. Ze benadrukken de noodzaak van een heldere console-uitvoer voor een betere gebruikerservaring.
+* Suggesties: Enkele suggesties voor verbetering omvatten het overwegen van visuele feedback na het indienen en het implementeren van client-side validatie om fouten proactief aan te pakken.
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+Essentiële aspecten en onderzoeksmethoden voor de formulierstructuur:
+* Essentiële aspecten: De feedbackgroep benadrukt het belang van een duidelijke en intuïtieve structuur, met speciale aandacht voor het verbeteren van de gebruikerservaring op de 'Over ons' pagina.
+* Onderzoeksmethoden: Aanbevelingen voor effectieve onderzoeksmethoden omvatten het bestuderen van best practices op vergelijkbare websites, het raadplegen van bronnen zoals MDN Web Docs en het uitvoeren van gebruikerstests met diverse gebruikersgroepen.
+
+Concept van Surface Plane Design in de schetsen:
+* Begrip en toepassing: Over het algemeen wordt het concept van Surface Plane Design positief ontvangen. De groep merkt op dat de schetsen aandacht besteden aan verbeteringen in toegankelijkheid, leesbaarheid en interactieve mogelijkheden.
+* Verbetersuggesties: Enkele suggesties voor verbetering zijn het verkennen van meer micro-interacties en het toevoegen van subtiele details om de algehele gebruikerservaring te verrijken.
+
+Optimaliseren van toetsenbordinteractie voor gebruikers met motorische beperkingen:
+* Belang van optimalisatie: De feedbackgroep erkent het belang van het optimaliseren van toetsenbordinteractie, met speciale aandacht voor gebruikers met motorische beperkingen. Duidelijke focusindicaties en sneltoetsen worden als cruciaal beschouwd.
+* Suggesties: Enkele suggesties zijn het implementeren van duidelijke visuele aanwijzingen bij het navigeren met het toetsenbord en het toevoegen van aanpasbare sneltoetsen voor specifieke functies.
+
+Aanbevelingen voor bronnen ter verbetering van designbegrip en implementatie:
+* Aanbevelingen: De groep deelt verschillende aanbevelingen voor bronnen, waaronder artikelen op A List Apart, tutorials op CSS Tricks en casestudy's op bekende designwebsites.
+* Breder perspectief: Er wordt aangeraden om bronnen van diverse platforms te verkennen voor een breder perspectief op designprincipes en implementatietechnieken.
+
+Haalbaarheid van verwachtingen voor het hamburgermenu:
+* Algemeen oordeel: De haalbaarheid van de verwachtingen voor het hamburgermenu wordt als realistisch beschouwd door de meerderheid van de feedbackgroep.
+* Aandachtspunten: Sommige leden wijzen op mogelijke uitdagingen met betrekking tot CSS en JavaScript-integratie. Ze raden aan om specifieke details van de implementatie in de schetsen op te nemen voor een beter begrip.
+
+Conclusie:
+De feedbacksessie heeft waardevolle inzichten opgeleverd om de schetsen te verfijnen en te verbeteren. De aanbevelingen variëren van technische verbeteringen tot bredere designoverwegingen, en ze zullen dienen als waardevolle richtlijnen voor verdere ontwikkeling en iteratie. Het is essentieel om de aangeboden suggesties zorgvuldig te overwegen en ze te integreren in het verdere ontwerpproces.
+
 
 </details>
 
