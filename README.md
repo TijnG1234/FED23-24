@@ -78,6 +78,27 @@ Na mijn observaties bleek het voor gebruikers met spasmen onmogelijk om een tele
 
 Visuele beperkingen variëren; sommigen zien slechts een klein punt, anderen zijn kleurenblind of hebben zelfs een soort vlek in hun gezichtsveld. Het is belangrijk om breed te denken en rekening te houden met diverse behoeften. Tijdens de tests ondervond ik zelf de moeilijkheid om een deel van mijn zicht te verliezen, wat leidde tot concentratieverlies. Wanneer ik me kon concentreren, lukte het wel.
 
+-----------------------------
+
+Uit de bevindingen van de testresultaten met betrekking tot de website van Footlocker, zou ik de volgende vijf onderwerpen aanbevelen om de gebruikerservaring te verbeteren:
+
+<strong> * Toegankelijkheid++: </strong>
+    Gezien de diverse reacties van individuen met visuele beperkingen, is het implementeren van verbeteringen op het gebied van toegankelijkheid essentieel. Dit omvat het optimaliseren van de website voor screenreaders, het verminderen van auditieve overbelasting en het verbeteren van navigatiemogelijkheden.
+
+<strong> * Formulieren toevoegen (op de 'Over ons' pagina):</strong>
+    Het toevoegen van formulieren op specifieke pagina's, zoals de 'Over ons' pagina, vergroot de interactieve mogelijkheden voor gebruikers. Hiermee kunnen ze bijvoorbeeld vragen stellen, feedback geven of zich inschrijven voor nieuwsbrieven, waardoor de betrokkenheid wordt vergroot.
+
+<strong> * Meer micro-interacties:</strong>
+    Voeg subtiele micro-interacties toe op verschillende delen van de website om de algehele gebruikerservaring te verbeteren. Denk aan hover-effecten, animaties bij interacties en andere kleine details die de interactie met de website aangenamer maken.
+
+<strong> * Werkend filteren/sorteren/zoeken:</strong>
+    Om gebruikers met concentratieproblemen te ondersteunen, is het verbeteren van de filter-, sorteeropties en zoekfunctionaliteit belangrijk. Dit zorgt voor een efficiëntere navigatie door de inhoud van de website.
+
+<strong> * Interactie met het toetsenbord++ (shortcuts, escape...):</strong>
+    Voor gebruikers met motorische beperkingen is het implementeren van verbeteringen in de interactie met het toetsenbord cruciaal. Dit omvat het toevoegen van sneltoetsen, een duidelijke focusindicatie en een eenvoudige ontsnappingsmethode.
+
+Deze aanpassingen richten zich op het vergroten van de toegankelijkheid, leesbaarheid, interactieve mogelijkheden, en de algehele gebruikerservaring van de website, waardoor deze beter aansluit bij de diverse behoeften van gebruikers.
+
 </details>
 
 
