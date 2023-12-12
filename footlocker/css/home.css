@@ -1,0 +1,420 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Roboto, Arial, sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+
+
+
+
+
+/* Stijlen voor het artikel element in #laatjeinspireren */
+#laatjeinspireren article:nth-of-type(1),
+#laatjeinspireren article:nth-of-type(2),
+#laatjeinspireren article:nth-of-type(3) {
+  /* Tekst uitlijnen naar het centrum */
+  text-align: center;
+  /* Andere gedeelde stijlen voor beide artikelen kunnen hier worden toegevoegd */
+}
+
+
+
+
+
+#onzecommunity article:nth-of-type(1),
+#onzecommunity article:nth-of-type(2),
+#onzecommunity article:nth-of-type(3) {
+    text-align: center;
+}
+
+
+
+
+
+
+/* Ik gebruik flexbox-layout voor mijn container (#shoppercategorie) */
+#shoppercategorie {
+  display: flex;
+  flex-wrap: wrap; /* Hiermee zorg ik ervoor dat de items naar de volgende rij gaan als er niet genoeg ruimte is */
+}
+
+/* Ik stel de individuele artikelen binnen #shoppercategorie in */
+#shoppercategorie article {
+  flex: 0 0 calc(50% - 20px); /* Hiermee verdeel ik de breedte over twee kolommen met wat ruimte tussen de artikelen */
+  margin: 10px; /* Hiermee voeg ik wat ruimte toe tussen de artikelen */
+  box-sizing: border-box; /* Hiermee zorg ik ervoor dat marges geen extra breedte toevoegen aan de elementen */
+}
+
+
+
+
+
+
+svg {
+  width: 1rem;
+  vertical-align: middle;
+}
+
+#itsgiving {
+  padding: 1rem;
+}
+
+#laatjeinspireren {
+  padding: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+/* Stijlen voor de hele sectie #footlockerfavorites */
+#footlockerfavorites {
+  padding: 1rem; /* Voeg hier padding toe voor de sectie #footlockerfavorites */
+}
+
+/* Stijlen voor artikelen (#footlockerfavorites article) binnen de sectie */
+#footlockerfavorites article {
+  text-align: center; /* Tekst uitlijnen naar het centrum */
+  /* Voeg hier andere stijlen toe voor de artikelen binnen #footlockerfavorites article */
+}
+
+/* Stijlen voor afbeeldingen binnen de artikelen (#footlockerfavorites img) */
+#footlockerfavorites img {
+  max-width: 100%; /* Afbeeldingen schalen naar de breedte van het artikel */
+  height: auto; /* Behoud de oorspronkelijke hoogte-breedteverhouding van de afbeelding */
+  /* Voeg hier andere stijlen toe voor afbeeldingen binnen #footlockerfavorites */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#onzecommunity {
+  padding: 1rem;
+}
+
+.image-section {
+  background-image: url('img/2023_08_14_FL_OMN_Holiday_23_Phase2_HPbanner_800x800 (1).jpg');
+  /* Add any other styles for the section */
+}
+
+.btn {
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+  font-size: 0.875rem;
+  display: inline-block;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 1rem;
+  text-align: center;
+  width: 100%;
+}
+
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+  width: 1rem;
+}
+
+#btn-1 .icon, #btn-2 .icon {
+  background: url('path-to-your-svg-file.svg') no-repeat;
+  /* Add any other styles for the icon */
+}
+
+#shoppercategorie {
+  padding: 1rem;
+}
+
+section:nth-of-type(n) h2 {
+  font-weight: 900;
+  line-height: 1;
+  font-size: 2.25rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+section:nth-of-type(n) p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+#btn-1 {
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+  font-size: 0.875rem;
+  display: inline-block;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 1rem;
+  text-align: center;
+  width: 100%;
+}
+
+section:nth-of-type(2) {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.5rem;
+  padding: 1rem;
+}
+
+section:nth-of-type(n) h1 {
+  font-weight: 900;
+  font-size: 2.25rem;
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+section:nth-of-type(n) h3 {
+  font-weight: 700;
+  font-size: 0.8rem;
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+article:nth-of-type(n) {
+  padding-bottom: 1rem;
+}
+
+section:nth-of-type(3) a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  border-color: black;
+  border-style: solid;
+  border-top-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0.1rem;
+  display: inline-block;
+}
+
+section:nth-of-type(4) a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  display: inline-block;
+  border-color: black;
+  border-style: solid;
+  border-top-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0.1rem;
+}
+
+section:nth-of-type(5) p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 0.5rem;
+}
+
+section:nth-of-type(5) a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  display: inline-block;
+  border-color: black;
+  border-style: solid;
+  border-top-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0.1rem;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  padding-bottom: 1rem;
+}
+
+main:nth-of-type(1) {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.5rem;
+  align-items: center;
+}
+
+footer {
+  background-color: #0e1111;
+  color: white;
+  font-family: Roboto, Arial, sans-serif;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+h4 {
+  font-weight: 700;
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+section:nth-of-type(1) {
+  margin-bottom: 2rem;
+}
+
+section:nth-of-type(1) a {
+  background-color: #0e1111;
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  width: 100%;
+  border-width: 1px;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: white;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  display: inline-block;
+  text-align: center;
+  font-size: 0.875rem;
+  font-weight: 700;
+}
+
+
+
+section:nth-of-type(2) {
+  display: grid;
+  gap: 1rem;
+  align-items: center;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+footer span svg {
+  padding-bottom: 1rem;
+}
+
+article a {
+  text-decoration: none;
+  color: white;
+  font-size: 0.875rem;
+  line-height: 1.2rem;
+  padding-bottom: 0.6rem;
+  display: block;
+}
+
+
+
+article:nth-child(3) img {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+article:nth-child(3) h6 {
+  color: #999;
+  font-size: 0.875rem;
+}
+
+section:nth-of-type(2) article {
+  position: relative;
+}
+
+section:nth-of-type(2) h4 {
+  padding-bottom: 2rem;
+}
+
+section:nth-of-type(2) h4::after {
+  content: "";
+  width: 1rem;
+  top: 2.5rem;
+  display: inline-block;
+  left: 0rem;
+  position: absolute;
+  height: 0.25rem;
+  background-color: #e71836;
+}
+
+section:nth-of-type(1) article h5 {
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+section:nth-of-type(1) article p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+section:nth-of-type(1) article {
+  padding: 1rem;
+}
+
+#contact {
+  color: #036ad8;
+  text-decoration: underline;
+}
+
+#europa {
+  color: black;
+  text-decoration: underline;
+}
+
+#nieuwsbrief {
+  padding: 1rem;
+}
+
+label {
+  display: block;
+  font-size: 0.875rem;
+  color: rgb(17 24 39);
+  font-weight: 800;
+  padding-bottom: 1rem;
+}
+
+input {
+  display: block;
+  width: 100%;
+  padding-top: 0.70rem;
+  padding-bottom: 0.70rem;
+  border-radius: 0.375rem;
+  border-width: 0.1rem;
+  border-color: gray;
+}
+
+h3 {
+  text-align: center;
+}

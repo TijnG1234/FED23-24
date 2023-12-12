@@ -191,27 +191,28 @@ De feedbacksessie heeft waardevolle inzichten opgeleverd om de schetsen te verfi
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  
+<strong>Navigatie:</strong> Op dit moment is de navigatie nog niet geïmplementeerd op de website. Het ontbreekt aan een gestructureerde en gebruiksvriendelijke manier om door de verschillende secties of pagina's te navigeren.
+<strong>Heading Structuur:</strong> Er wordt opgemerkt dat er nog meerdere h1-tags worden gebruikt in de content. Het is van belang om de opbouw van de pagina te verbeteren door verschillende heading niveaus te benutten. Dit draagt bij aan een betere leesbaarheid en begrijpelijkheid van de inhoud.
+<strong>Zelfstandigheid:</strong> Momenteel is er een neiging om veel hulp te vragen aan anderen in plaats van zelfstandig op zoek te gaan naar oplossingen. De focus moet verschuiven naar meer zelfstandigheid en het nemen van initiatief bij het oplossen van problemen en het implementeren van verbeteringen. Dit bevordert niet alleen de individuele groei, maar ook de efficiëntie van het ontwikkelingsproces.
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+ 
+In de aankomende vergadering wil ik me richten op een cruciaal doel: het verbeteren van mijn website in termen van navigatie en heading-structuur, en het bevorderen van zelfstandigheid binnen mijn ontwikkelingsproces.
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+Als ik naar de huidige stand van zaken kijk, merk ik op dat er nog steeds een gebrek is aan een gestructureerde en gebruiksvriendelijke navigatie op mijn website. Dit vormt een obstakel voor bezoekers om vlot door verschillende secties en pagina's te navigeren. Mijn aanpak is om concrete stappen te bespreken die de gebruikerservaring aanzienlijk zullen versterken.
 
+Een ander aandachtspunt betreft de opbouw van mijn pagina's. Ik heb opgemerkt dat er meerdere h1-tags worden gebruikt in de content, wat de leesbaarheid en begrijpelijkheid beïnvloedt. Mijn plan is een doordachte herziening van de heading-structuur met verschillende niveaus voor een meer gestroomlijnde presentatie van informatie. Hierdoor kunnen bezoekers de inhoud gemakkelijker begrijpen.
+
+Ik ben toegewijd aan het nemen van initiatief en het zelfstandig oplossen van deze kwesties om de efficiëntie van mijn ontwikkelingsproces te verbeteren.
+
+  
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
+Het doet me goed te vernemen dat mijn inspanningen zijn opgemerkt en gewaardeerd. Het positieve feedback ontvangen heeft mijn motivatie versterkt en mij aangemoedigd om op de ingeslagen weg door te gaan. Na het horen van deze bemoedigende woorden heb ik mijn focus en toewijding aan mijn werk zeker gehandhaafd.
 </details>
 
 
@@ -224,11 +225,30 @@ De feedbacksessie heeft waardevolle inzichten opgeleverd om de schetsen te verfi
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  
+<strong>Screenreader</strong>
+  
+De screenreader-functie functioneert naar behoren op de website van Footlocker. Je krijgt duidelijke feedback over op welk specifiek punt je je bevindt, met veel alternatieve teksten om verwarring te voorkomen. Ik heb deze aanpak ook geïntegreerd in mijn eigen website, waardoor het net zo effectief werkt als op de Footlocker-website.
+
+Echter, op de site van Footlocker wordt er overmatig gebruik gemaakt van div-elementen, wat kan leiden tot onlogisch lezen. Een mogelijke oplossing is om, wanneer er geen interesse is in bepaalde elementen maar je er toch doorheen moet navigeren, ervoor te zorgen dat onrelevante of minder belangrijke onderdelen worden overgeslagen.
+
+Ik neem deze ervaringen mee naar mijn eigen website. Ik plan om mijn site te optimaliseren door correcte semantische waarden toe te passen, met speciale aandacht voor het juiste gebruik van sections en articles, evenals het correct inzetten van h1/h2/h3 en het toevoegen van verduidelijkend commentaar. Dit is vooral belangrijk voor screenreaders, omdat ze deze semantische structuren correct kunnen interpreteren in tegenstelling tot eenvoudige div-elementen.
+
+Daarnaast zal ik de tabfunctie op mijn website verbeteren door extra nadruk te leggen, bijvoorbeeld door een extra dikke border toe te voegen aan het element dat momenteel geselecteerd is via de tabfunctie. Bovendien zal ik ervoor zorgen dat tabben door de navigatiebalk op desktopmodus soepel verloopt, waardoor de gebruikerservaring wordt verbeterd.  
+  
+<strong>Muizen en Toetsenborden</strong>
+
+Het gebruik van muizen en toetsenborden varieert sterk afhankelijk van de beperking. Bijvoorbeeld, als je slechtziend bent of kleurenblind, kun je nog steeds een formulier invullen of door de site navigeren. Echter, bij een motorieke beperking blijft dit vaak uitdagend. Ik heb mezelf voorgenomen om meer nadruk te leggen op het tabbladen door mijn site, zodat de gebruiker tenminste duidelijk kan zien waar hij/zij zich bevindt.
+
+<strong>Motoriek (shocks, elastiekjes)</strong>
+
+Bij deze test heb ik elastiekjes gebruikt op zowel mobiel als desktop. Hieruit bleek dat het gebruik ervan moeilijker is met een trackpad. Trackpads maken gebruik van shortcuts met meerdere vingers, bijvoorbeeld met twee vingers kun je scrollen. Het kwam vaak voor dat ik conflicten had met de trackpad. Op mobiel was het gebruik daarentegen prettig en werkte alles naar behoren.
+
+<strong>Visueel (brillen, contrast, kleurenblind, dark/light)</strong>
+
+Door het gebruik van brillen kwam ik tegen hetzelfde probleem aan als bij Footlocker. Tekstlinkjes en klikbare afbeeldingen moeten nog duidelijker zijn in de huidige staat. Er moet nog aan gewerkt worden om dit te verbeteren.
 
 </details>
-
-
 
 
 
@@ -242,23 +262,17 @@ De feedbacksessie heeft waardevolle inzichten opgeleverd om de schetsen te verfi
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  samen met je groepje opstellen VRAGEN:
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+- footer
+- verbetering navbar hamburger menu
 
+De vragen die ik had, heb ik zelf kunnen oplossen door even weer flexbox froggy te gaan doen omdat ik vastliep bij het maken van de footer. https://flexboxfroggy.com/#nl
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+  hier na afloop snel de uitkomsten van de meeting vastleggen:
+  
+Ik heb voortgebouwd op specifieke toestanden om de focus te leggen op gebruikers die tab gebruiken en afhankelijk zijn van knopstaten. Daarnaast heb ik vooruitgang geboekt richting het uiteindelijke resultaat.
 </details>
 
 
